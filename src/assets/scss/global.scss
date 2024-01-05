@@ -1,0 +1,15 @@
+@import './variables.scss';
+@import './mixins.scss';
+@import './component.scss';
+@import './home.scss';
+@import './header.scss';
+@import './footer.scss';
+body{
+    margin: 0;
+    padding: 0;
+    background: $white;
+}
+
+.main-content{
+    padding: 0 50px;
+}
